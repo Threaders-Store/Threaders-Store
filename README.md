@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🧵 Threaders – Thread it. Wear it. Flaunt it.  
 
-<!--
-**Threaders-Store/Threaders-Store** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Website:** [threaders.in](https://threaders.in)  
+**Launch:** August 2025  
 
-Here are some ideas to get you started:
+Threaders is a tech-driven fashion startup providing **online stitching services** with **doorstep delivery**. Whether you need **custom-stitched outfits** or want to **buy fabric with stitching options**, we make it seamless and hassle-free.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Why Choose Threaders?  
+✅ **Convenience** – Get clothes stitched without stepping out.  
+✅ **Premium Tailoring** – Expert craftsmanship for the perfect fit.  
+✅ **Fabric + Stitching Combo** – Buy fabric and get it stitched professionally.  
+
+📩 **Want to collaborate?** Reach out at [contact@threaders.in] or visit [threaders.in](https://threaders.in)  
